@@ -1,10 +1,11 @@
 <한가위 페이지>
 
-페이지 주소 : http://localhost:5173/vue-static-page/
+페이지 주소 : https://rosoefox.github.io/vue-static-page/
 
 Gemini pro를 사용하여 제작한 웹사이트입니다.
 
 -프롬프트-
+
 vue + ts + vite로 한가위에 잘 어울리는 웹페이지를 하나 만들고 싶어.
 app.vue 파일 하나 만들어주랑!
 배경에 반짝이는 무늬가 있으면 좋겠어.
