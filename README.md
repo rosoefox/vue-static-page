@@ -1,5 +1,15 @@
-# Vue 3 + TypeScript + Vite
+<한가위 페이지>
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+페이지 주소 : http://localhost:5173/vue-static-page/
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Gemini pro를 사용하여 제작한 웹사이트입니다.
+
+-프롬프트-
+vue + ts + vite로 한가위에 잘 어울리는 웹페이지를 하나 만들고 싶어.
+app.vue 파일 하나 만들어주랑!
+배경에 반짝이는 무늬가 있으면 좋겠어.
+가운데는 달이 있고 '풍성한 한가위'라는 단어가 들어갔으면 좋겠어.
+바로 아래에는 간단하게 추석에 대한 설명을 적어줘.
+그 아래에는 전통 놀이, 음식에 대한 설명 아이콘과 함께 들어가야 해.
+app.vue에 딱 붙여넣기 할 수 있도록 해줘.
+
